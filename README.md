@@ -18,11 +18,11 @@ The goal is to help improve marketing strategies to the different customer segme
 
 ### Installation
 Clone the repository, and change the directory to customer-segmentation:
-git clone [Link]
+git clone: [[Link](https://github.com/corinna-walter/customersegmentation-project)]
 
 ### How to Use
 To explore the customer segmentation analysis:
-Open the Jupyter Notebook or JupyterLab  [[here](customer_segmentation.ipynb)]
+Open the Jupyter Notebook [[here](customer_segmentation.ipynb)]
 
 ### Related Projects
 For the dataset used in this project, we have created a ETL pipeline. Please visit my [[ETL Pipeline Repository](https://github.com/corinna-walter/etl-pipeline)].
