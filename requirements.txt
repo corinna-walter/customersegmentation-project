@@ -1,0 +1,14 @@
+pandas
+numpy
+sqlite3
+datetime
+matplotlib.pyplot
+seaborn
+KMeans
+StandardScaler
+silhouette_score
+scipy
+
+# For Windows users: Set the number of threads to 1 to avoid problems with KMeans
+import os
+os.environ['OMP_NUM_THREADS'] = '1'
