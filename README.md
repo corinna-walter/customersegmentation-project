@@ -25,5 +25,4 @@ To explore the customer segmentation analysis:
 Open the Jupyter Notebook [[here](customer_segmentation.ipynb)]
 
 ### Related Projects
-For the dataset used in this project, we have created a ETL pipeline. Please visit my [[ETL Pipeline Repository](https://github.com/corinna-walter/etl-pipeline)].
-"# customersegmentation-project" 
+For the dataset used in this project, we have created a ETL pipeline. Please visit my [[ETL Pipeline Repository](https://github.com/corinna-walter/etl-pipeline)]. 
